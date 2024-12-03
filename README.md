@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/crypto-history.git
+   git clone https://github.com/arjav0703/CryptoChronicles.git
    cd crypto-history
 2. **Open the index.html file in your web browser.**
 
