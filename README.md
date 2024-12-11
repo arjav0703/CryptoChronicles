@@ -8,6 +8,10 @@
 
 - Image 4: Source: https://images.unsplash.com/photo-1623681143855-e1d48cf03ca1?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D License: Unsplash License: https://unsplash.com/license
 - Image 5: Source: https://images.unsplash.com/photo-1592495989226-03f88104f8cc?q=80&w=2112&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D License: Unsplash License: https://unsplash.com/license
+- Image 6: Source: https://images.unsplash.com/photo-1555374018-13a8994ab246?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D License: Unsplash License: https://unsplash.com/license
+
+- Image 7: Source: https://images.unsplash.com/photo-1666816943145-bac390ca866c?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D License: Unsplash License: https://unsplash.com/license
+
 ## Overview
 The History of Cryptocurrencies is a dynamic and interactive website that explores the evolution of digital currencies from their inception to the present day.
 
