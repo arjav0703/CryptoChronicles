@@ -18,7 +18,7 @@ The History of Cryptocurrencies is a dynamic and interactive website that explor
 ## Features
 - **Interactive Timeline**: Browse through a chronological list of important events in cryptocurrency history.
 - **Event Details**: Click on any event to view detailed information about its significance and impact.
-
+- **Paralax Effect**: The images dynamically move as you scroll the page.
 
 ## Technologies Used
 - **HTML**: For structuring the web pages.
