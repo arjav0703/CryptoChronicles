@@ -1,19 +1,18 @@
 # The History of Cryptocurrencies
-
+## Credits
+Image 1: Source: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/800px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg License https://creativecommons.org/licenses/by-sa/4.0/
 ## Overview
-The History of Cryptocurrencies is a dynamic and interactive website that explores the evolution of digital currencies from their inception to the present day. This platform provides users with a timeline of key events in the cryptocurrency space, detailed descriptions of significant milestones, and visualizations of Bitcoin price trends.
+The History of Cryptocurrencies is a dynamic and interactive website that explores the evolution of digital currencies from their inception to the present day.
 
 ## Features
 - **Interactive Timeline**: Browse through a chronological list of important events in cryptocurrency history.
 - **Event Details**: Click on any event to view detailed information about its significance and impact.
-- **Search Functionality**: Easily search for specific events or keywords to find relevant information quickly.
-- **Bitcoin Price Chart**: Visualize Bitcoin price trends over the years with an interactive chart.
+
 
 ## Technologies Used
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and layout.
-- **JavaScript**: For interactivity and dynamic content.
-- **Chart.js**: For rendering the Bitcoin price chart.
+
 
 ## Getting Started
 To run this project locally, follow these steps:
