@@ -40,7 +40,7 @@ footer {
 /* Paralax Effect*/
 
 .parallax-section {
-    text-shadow: 4px 4px 6px #ffffff;
+    text-shadow: 4px 4px 6px #000000;
     
     background-attachment: fixed;
     background-position: center;
@@ -51,19 +51,19 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     
 }
 
 #section1 {
-    background-image: url(https://images.unsplash.com/photo-1610812387871-806d3db9f5aa?q=80&w=1940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+    background-image: url(https://images.unsplash.com/photo-1614533422330-396d7dde96b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNyeXB0byUyMGN1cnJlbmN5fGVufDB8fDB8fHww); 
 }
 
 #section2 {
-    background-image: url(https://images.unsplash.com/photo-1642229407671-7ec2ba313386?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8); 
+    background-image: url(https://cloud-of6sjp59j-hack-club-bot.vercel.app/0timeline.png)
 }
 #section3 {
-    background-image: url(https://assets.raspberrypi.com/static/6fa72be44172792c5541c84c9ef467ef/83b0f/pci-express.webp); 
+    background-image: url(https://cloud-of6sjp59j-hack-club-bot.vercel.app/0timeline.png)
 }
 
 .content-section {
