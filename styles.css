@@ -1,59 +1,117 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
 }
-
-header {
-    background: #35424a;
-    color: #ffffff;
-    padding: 20px 0;
+body {
+    margin: 0;
+    padding: 0;  
     text-align: center;
 }
 
-h1 {
-    margin: 0;
+header {
+    
+    color: white;
+    padding: 50px 20px;
+    background-size: cover;
+    background-position: center;
+    background-color: #cd2355 ;
 }
 
-h2 {
-    color: #35424a;
-}
-
-main {
-    padding: 20px;
-}
-
-#search {
+header h1 {
+    font-size: 2.5rem;
     margin-bottom: 20px;
 }
 
-#timeline, #details, #chart {
-    background: #ffffff;
-    padding: 20px;
+header p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.action-button {
+    position: relative;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-#event-list {
-    list-style-type: none;
-    padding: 0;
-}
-
-#event-list li {
-    padding: 10px;
     cursor: pointer;
-    border-bottom: 1px solid #ddd;
+    transition: background-color 0.3s;
+    
 }
 
-#event-list li:hover {
-    background-color: #e9e9e9;
+.action-button:hover {
+    background-color: #0056b3;
 }
 
-#details {
-    margin-top: 20px;
+.features {
+    display: grid;
+    justify-content: center;
+    padding: 100px;
+    padding-top: 100px;
+    background-color: #cd2355 ;
+    font-size: large;
 }
 
-#chart {
-    margin-top: 20px;
+
+.feature {
+    
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Paralax Effect*/
+
+.parallax-section {
+    text-shadow: 4px 4px 6px #ffffff;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+#section1 {
+    background-image: url(https://images.unsplash.com/photo-1610812387871-806d3db9f5aa?q=80&w=1940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); 
+}
+
+#section2 {
+    background-image: url(https://images.unsplash.com/photo-1642229407671-7ec2ba313386?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fHx8); 
+}
+#section3 {
+    background-image: url(https://assets.raspberrypi.com/static/6fa72be44172792c5541c84c9ef467ef/83b0f/pci-express.webp); 
+}
+
+.content-section {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+}
+
+.content-section p {
+    margin: 0 auto;
+    width: 80%;
+    font-size: 1.2em;
 }
