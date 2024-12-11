@@ -8,55 +8,17 @@ body {
     text-align: center;
 }
 
-header {
-    
-    color: white;
-    padding: 50px 20px;
-    background-size: cover;
-    background-position: center;
-    background-color: #cd2355 ;
-}
-
-header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 20px;
-}
-
-header p {
-    font-size: 1.2rem;
-    margin-bottom: 30px;
-}
-
-.action-button {
-    position: relative;
-    padding: 10px 20px;
-    background-color: #ff0000;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-    
-}
-
-.action-button:hover {
-    background-color: #0056b3;
-}
 
 .features {
     display: grid;
     justify-content: center;
-    padding: 100px;
-    padding-top: 100px;
-    background-color: #cd2355 ;
+    background-color: #ffffff ;
     font-size: large;
 }
 
 
 .feature {
-    
-    margin: 10px;
-    padding: 20px;
+   
     background-color: white;
     border-radius: 5px;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -64,7 +26,7 @@ header p {
 }
 
 .feature:hover {
-    transform: scale(1.05);
+    transform: scale(1.1);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
