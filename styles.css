@@ -56,13 +56,20 @@ footer {
 }
 
 #section1 {
-    background-image: url(https://images.unsplash.com/photo-1614533422330-396d7dde96b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNyeXB0byUyMGN1cnJlbmN5fGVufDB8fDB8fHww); 
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bust_of_Satoshi_Nakamoto_in_Budapest.jpg/800px-Bust_of_Satoshi_Nakamoto_in_Budapest.jpg); 
 }
 
 #section2 {
-    background-image: url(https://cloud-of6sjp59j-hack-club-bot.vercel.app/0timeline.png)
+    background-image: url(https://images.unsplash.com/photo-1516850228053-a807778c4e0f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 }
 #section3 {
+    background-image: url(https://images.unsplash.com/photo-1580893246395-52aead8960dc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+#section4{
+    background-image: url(https://images.unsplash.com/photo-1623681143855-e1d48cf03ca1?q=80&w=2060&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+#section5 {
     background-image: url(https://cloud-of6sjp59j-hack-club-bot.vercel.app/0timeline.png)
 }
 
